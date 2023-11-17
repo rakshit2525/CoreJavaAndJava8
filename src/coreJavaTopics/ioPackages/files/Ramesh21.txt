@@ -1,0 +1,5 @@
+Bank Name: HDFC Bank
+Customer Name: Ramesh
+account Number: 996587456247
+City: Bengaluru
+Available Balance: 50000.0

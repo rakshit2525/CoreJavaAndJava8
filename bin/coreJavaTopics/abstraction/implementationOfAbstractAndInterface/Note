@@ -1,0 +1,4 @@
+This example is provided to clarify the below statements:
+
+* Abstract Class can provide implementation of interface.
+* But Interface cannot provide implementation of abstract class.

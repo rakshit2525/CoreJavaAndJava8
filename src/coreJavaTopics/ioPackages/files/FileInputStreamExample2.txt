@@ -1,0 +1,27 @@
+Exception Handling
+The Exception Handling in Java is one of the powerful mechanism to handle the runtime errors so that the normal flow of the application can be maintained.
+
+Note:
+Custom exceptions are used to display user defined exception messages to the user.
+
+What is Exception?
+In Java, an Exception is an event that disrupts the normal flow of the program.
+It is an object which is thrown at runtime.
+
+Hierarchy of Exception:
+Java.lang.Throwable class is the super class of all the exceptions and errors. Throwable is inherited by two subclasses which is Exception and Error.
+
+There are mainly 2 types of Exception:
+1. Checked Exception
+It is also called as Compile Time Exception.
+The classes that directly inherits the Throwable class except Runtime Exception and Error are known as Checked Exceptions.
+Ex: IOException, SQLException, etc
+
+2. Unchecked Exception
+Unchecked exceptions are Runtime exceptions.
+The classes that inherit the Runtime Exception are known as Unchecked Exception.
+Ex: ArithematicException, NullPointerException, ArrayIndexOutOfBoundsException.
+
+3. Error
+It is irrecoverable.
+Some of the examples are OutOfMemoryError, StackOverflowerror.
